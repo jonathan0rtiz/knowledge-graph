@@ -1,12 +1,8 @@
 ---
-id: root
-title: root
+id: f6ebda55-61d1-4194-800b-1d9326a4fd62
+title: Root
 desc: ''
-updated: 1605266684036
-created: 1595961348801
-stub: false
+updated: 1615224072859
+created: 1615224072859
 ---
 
-This is the root for your Dendron vault.
-
-If you decide to publish your entire vault, it will be your landing page. You are free to customize any part of this page except the frontmatter at the top, between the `---`. 
