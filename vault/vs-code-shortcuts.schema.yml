@@ -1,0 +1,9 @@
+version: 1
+imports: []
+schemas:
+  - id: vs-code-shortcuts
+    children: []
+    title: vs-code-shortcuts
+    parent: root
+
+

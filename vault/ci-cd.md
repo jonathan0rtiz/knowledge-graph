@@ -1,8 +1,8 @@
 ---
 id: 658350f3-605b-400e-9787-6c472b3ebf92
-title: CI Cd
+title: CI/CD
 desc: ''
-updated: 1615912215283
+updated: 1621437276127
 created: 1615911997822
 stub: false
 ---
