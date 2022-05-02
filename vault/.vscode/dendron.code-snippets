@@ -23,4 +23,10 @@
         "body": "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE",
         "description": "time"
     }
+    "span": {
+        "prefix": "span-highlight",
+        "scope": "markdown,yaml",
+        "body": "<span style=\"background-color: #FFFF00\">Marked text</span>",
+        "description": "span with highlight"
+    }
 }
